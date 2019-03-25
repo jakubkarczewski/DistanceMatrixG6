@@ -1,7 +1,5 @@
 from distutils.core import setup, Extension
 
-print("in!!!")
-
 module1 = Extension('simple_graphs',
                     sources = ['simple_graphsmodule.c'])
 
