@@ -1,17 +1,3 @@
-
-/* Use this file as a template to start implementing a module that
-   also declares object types. All occurrences of 'DistanceMatrix' should be changed
-   to something reasonable for your objects. After that, all other
-   occurrences of 'simple_graphs' should be changed to something reasonable for your
-   module. If your module is named foo your sourcefile should be named
-   foomodule.c.
-
-   You will probably want to delete all references to 'x_attr' and add
-   your own types of attributes instead.  Maybe you want to name your
-   local variables other than 'self'.  If your object type is needed in
-   other files, you'll have to create a file "foobarobject.h"; see
-   floatobject.h for an example. */
-
 /* DistanceMatrix objects */
 
 #include "Python.h"
